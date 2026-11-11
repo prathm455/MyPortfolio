@@ -75,6 +75,39 @@ nav ul li {
     font-size: 21px;
 }
 
+.leftsession .hero-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 21px;
+    gap: 20px;
+
+}
+
+.leftsession .hero-button .hero-project-btn {
+    background-color: #FFD166;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #6d3c04;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 12px 20px;
+}
+
+.leftsession .hero-button .hero-resume-btn {
+    background-color: #FFD166;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #6d3c04;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 12px 20px;
+}
+
+
+
 .leftsession:hover {
     transform: translateY(-8px);
     box-shadow: 0 12px 25px rgba(0, 0, 0, 0.3);
